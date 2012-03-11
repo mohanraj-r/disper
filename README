@@ -1,0 +1,10 @@
+If you have a dual monitor setup and regularly switch between them, then disper is a utility that could help you manage to switch between them rapidly.
+
+This particular python script creates a gnome panel indicator and provides a convenient GUI-wrapper around disper.
+
+I did not write this script from scratch. I found it at http://askubuntu.com/questions/62099/how-can-i-toggle-between-single-and-dual-monitor-setup.
+Thanks to the author of the script (? http://eggeral.blogspot.com/2011/04/disper-indicator-for-switching-nvidia.html). 
+
+My minor contributions so far:
+* Added options to support having the secondary monitor on the left side of the primary.
+* Renamed menu items to make them more explanatory.
